@@ -9,7 +9,7 @@
 - Download [Windows Visual Studio](https://visualstudio.microsoft.com/downloads/)
 - Download [igraphics](https://github.com/srautonu/IGraphics)
 - Open a project in Visual Studio and then configure all settings.
-  You can take help from this [YouTube Video](https://www.youtube.com/watch?v=Z6alClFOGoM&list=PLRtjMdoYXLf776y4K432eL_qPw4na_py3&index=2)
+  
 - Then download all files from "Chess" and add the filesto your project folder .
 
 ---------------------
