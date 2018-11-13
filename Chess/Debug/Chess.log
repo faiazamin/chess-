@@ -1,0 +1,6 @@
+﻿  Main.cpp
+d:\chess game\chess\chess\igraphics.h(299): warning C4101: 'k': unreferenced local variable
+d:\chess game\chess\chess\igraphics.h(299): warning C4101: 'j': unreferenced local variable
+d:\chess game\chess\chess\igraphics.h(299): warning C4101: 'i': unreferenced local variable
+d:\chess game\chess\chess\file.h(68): warning C4101: 'rank': unreferenced local variable
+  Chess.vcxproj -> D:\Chess Game\Chess\Debug\Chess.exe
